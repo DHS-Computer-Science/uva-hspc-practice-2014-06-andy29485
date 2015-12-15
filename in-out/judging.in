@@ -1,0 +1,36 @@
+3 4
+T..
+TST
+..T
+TTT
+5 5
+T.T.T
+.T.T.
+..S..
+.T.T.
+T.T.T
+10 10
+STTTTTTTTT
+.........T
+TTTTTTTT.T
+T......T.T
+T.TTTT.T.T
+T.T..T.T.T
+T.T....T.T
+T.TTTTTT.T
+T........T
+TTTTTTTTTT
+10 1
+STTTTTTTTT
+1 10
+S
+T
+T
+T
+T
+T
+T
+T
+T
+T
+0 0

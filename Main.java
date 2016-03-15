@@ -33,7 +33,7 @@ public class Main {
               //up    i-1
               if(i-1 >= 0) {
                 if(map[i-1][j] == 'T') {
-                  map[i-1][j] = 'S'
+                  map[i-1][j] = 'S';
                   nChanges++;
                 }
               }
@@ -41,7 +41,7 @@ public class Main {
               //down  i+1
               if(i+1 < H) {
                 if(map[i+1][j] == 'T') {
-                  map[i+1][j] = 'S'
+                  map[i+1][j] = 'S';
                   nChanges++;
                 }
               }
@@ -49,7 +49,7 @@ public class Main {
               //left  j-1
               if(j-1 >= 0) {
                 if(map[i][j-1] == 'T') {
-                  map[i][j-1] = 'S'
+                  map[i][j-1] = 'S';
                   nChanges++;
                 }
               }
@@ -57,7 +57,7 @@ public class Main {
               //right j+1
               if(j+1 < W) {
                 if(map[i][j+1] == 'T') {
-                  map[i][j+1] = 'S'
+                  map[i][j+1] = 'S';
                   nChanges++;
                 }
               }
